@@ -1,0 +1,15 @@
+.row div{
+    margin: 0.25rem;
+}
+.col-md{
+    background-color: cornflowerblue;
+}
+.col-sm{
+    background-color: yellow
+}
+.col-lg {
+    background-color: green;
+}
+.col-xl{
+    background-color: tomato;
+}
